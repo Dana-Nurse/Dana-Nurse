@@ -2,7 +2,7 @@
 
 👀 **Interests:** I'm new to Github and I'm passionate about improving my basic coding skills and honing my abilities through hands-on projects.
 
-🌱 **Currently Learning:** I'm on a journey to master Python, understand coding fundamentals, explore the basics of Data Science, and dive into SQL.
+🌱 **Currently Learning:** I'm on a journey to dive in and master Python whilst understanding coding fundamentals.
 
 💼 **Open to Collaboration:** I'm eager to collaborate on small projects to enhance my skills and work with like-minded individuals.
 

@@ -1,14 +1,14 @@
-### Hi, I'm Dana Nurse! 👋
+Hi, I'm Dana Nurse! 👋
 
-👀 **Interests:** I'm new to Github and I'm passionate about improving my basic coding skills and honing my abilities through hands-on projects.
+👀 Interests: I'm passionate about software engineering and continuously improving my coding skills. Currently, I'm focused on mastering Python and SQL, exploring coding fundamentals, and delving into web development.
 
-🌱 **Currently Learning:** I'm on a journey to dive in and master Python whilst understanding coding fundamentals.
+🌱 Learning Journey: Recently completed Makers Software Engineering Foundations and Python & SQL courses with Code First Girls. I'm excited to apply my newfound knowledge and skills to real-world projects.
 
-💼 **Open to Collaboration:** I'm eager to collaborate on small projects to enhance my skills and work with like-minded individuals.
+💼 Open to Collaboration: I'm eager to collaborate on projects that challenge me and allow me to grow as a developer. Whether it's contributing to open-source projects or working on small team projects, I'm ready to dive in.
 
-📫 **How to Reach Me:** Feel free to connect with me here on GitHub, or connect with me professionally on [LinkedIn](https://www.linkedin.com/in/dana-nurse/).
+📫 How to Reach Me: Connect with me here on GitHub, or feel free to reach out to me professionally on [LinkedIn.](https://www.linkedin.com/in/dana-nurse/)
 
-Let's learn and build together! 😊
+Let's build together 😊
 
 
 <!---

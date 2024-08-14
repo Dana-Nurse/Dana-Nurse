@@ -1,6 +1,6 @@
 Hi, I'm Dana Nurse! 👋
 
-👀 Interests: I'm passionate about software engineering and continuously improving my coding skills. Currently, I'm focused on mastering Python and SQL, exploring coding fundamentals, and delving into web development.
+👀 Interests: I'm passionate about software engineering and continuously improving my coding skills. Currently, I'm focused on mastering Python and SQL, exploring coding fundamentals, and delving into tech.
 
 🌱 Learning Journey: Recently completed Makers Software Engineering Foundations and Python & SQL courses with Code First Girls. I'm excited to apply my newfound knowledge and skills to real-world projects.
 
